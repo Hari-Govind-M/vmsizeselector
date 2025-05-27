@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Standard_B1s",
+    "vcpus": 1,
+    "memory_gb": 1,
+    "regions": ["eastus", "westeurope", "westus"]
+  },
+  {
+    "name": "Standard_B2s",
+    "vcpus": 2,
+    "memory_gb": 4,
+    "regions": ["eastus", "westeurope"]
+  },
+  {
+    "name": "Standard_B2ms",
+    "vcpus": 2,
+    "memory_gb": 8,
+    "regions": ["eastus", "westus"]
+  },
+  {
+    "name": "Standard_D2s_v3",
+    "vcpus": 2,
+    "memory_gb": 8,
+    "regions": ["eastus", "westeurope", "centralus"]
+  },
+  {
+    "name": "Standard_D4s_v3",
+    "vcpus": 4,
+    "memory_gb": 16,
+    "regions": ["eastus", "westeurope", "centralus"]
+  },
+  {
+    "name": "Standard_E2s_v3",
+    "vcpus": 2,
+    "memory_gb": 16,
+    "regions": ["eastus", "westeurope"]
+  },
+  {
+    "name": "Standard_E4s_v3",
+    "vcpus": 4,
+    "memory_gb": 32,
+    "regions": ["eastus", "westeurope", "westus"]
+  },
+  {
+    "name": "Standard_F4s_v2",
+    "vcpus": 4,
+    "memory_gb": 8,
+    "regions": ["eastus", "westeurope", "centralus"]
+  },
+  {
+    "name": "Standard_F8s_v2",
+    "vcpus": 8,
+    "memory_gb": 16,
+    "regions": ["eastus", "westeurope", "westus"]
+  }
+]
