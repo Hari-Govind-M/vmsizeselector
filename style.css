@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #ffffff, #e0f0ff);
+  margin: 0;
+  padding: 20px;
+}
+
+button {
+  background: linear-gradient(to bottom, #4CAF50, #2E7D32);
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+#vmForm input {
+  margin-bottom: 10px;
+}
+
+h1 {
+  background: linear-gradient(to right, #007bff, #00bfff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
